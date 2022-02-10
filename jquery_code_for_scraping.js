@@ -25,7 +25,7 @@ $('grid-row').each(function () {
 copy(data);
 
 
-
+/////// /////// /////// /////// ///////
 
 var grid_row = document.querySelectorAll('grid-row');
 var grid_row_array = [];
